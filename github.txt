@@ -4,6 +4,9 @@ Tuần 3: tester, database
 Tuần 4: deploy lên host để chạy online, làm đồ án, kiểm tra
 
 
+task 1task 1task 1task 1task 1task 1task 1
+task 1task 1task 1task 1task 1task 1task 1
+task 1task 1task 1task 1task 1task 1task 1
 
 
 
