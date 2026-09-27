@@ -4,6 +4,12 @@ Tuần 3: tester, database
 Tuần 4: deploy lên host để chạy online, làm đồ án, kiểm tra
 
 
+<<<<<<< Updated upstream
+=======
+task 2task 1task 1task 1task 1task 1task 1
+task 3task 1task 1task 1task 1task 1task 1
+task 4567task 1task 1task 1task 1task 1task 1
+>>>>>>> Stashed changes
 
 
 
